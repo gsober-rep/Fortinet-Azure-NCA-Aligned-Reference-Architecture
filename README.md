@@ -1,0 +1,1 @@
+# Fortinet-Azure-NCA-Aligned-Reference-Architecture
