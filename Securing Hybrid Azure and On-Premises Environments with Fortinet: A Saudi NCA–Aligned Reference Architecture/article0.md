@@ -2,6 +2,7 @@
 # Securing Hybrid Azure and On-Premises Environments with Fortinet: A Saudi NCA–Aligned Reference Architecture (0/6)
 
 **Disclaimer:** The views and opinions expressed in this series are my own. For official reference architectures, product guidance, and implementation recommendations, please refer to the official Microsoft and Fortinet documentation and websites.
+
 ## Introduction
 
 Microsoft announced that its Saudi Arabia East datacenter region is expected to be available to customers in November 2026. The region is intended to provide access to supported Microsoft cloud and AI services and to enable eligible workloads and data to be hosted locally in the Kingdom.
@@ -21,6 +22,8 @@ CCC-2:2024 extends ECC for cloud computing. It distinguishes between the **Cloud
 In this first article of the series, we introduce the reference architecture at a glance, followed by a high-level overview of its key technical capabilities and selected areas of alignment with NCA requirements. Please keep in mind that the individual solutions, architectural components, and technical aspects will be explored in greater detail in the subsequent articles in the series.
 
 ## The reference architecture at a glance
+
+![alt text](<Fortinet Azure Landing Zone Reference Architecture.png>)
 
 The architecture is a logical reference design for a hybrid Azure and on-premises environment. It shows intended trust boundaries, security functions, and integration patterns; it is not a physical deployment specification or a complete NCA control implementation.
 
